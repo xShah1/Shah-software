@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",SterkTV (1080p) [Not 24/7]
+https://muzkurd.com/sterktv/sterk/chunklist_w1375593228.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Undefined",Med Müzik (720p)
+http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zarok TV.iq" tvg-logo="https://zaroktv.com.tr/wp-content/uploads/bfi_thumb/LOGO-8K-3ecl44zy3nujei4th6a1hm@2x.png" group-title="Kids",Zarok TV
+https://stream-06.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikrGGd0f7g8KPpQMCTbO33ywM2r0UDnT3re-kPcgveabH)/dm/3/x63b9ty/s/live-1.m3u8
+#EXTINF:-1 tvg-id="Kurdistan TV.iq" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Kurdistan_tv.png" group-title="Undefined",Kurdistan TV (1080p)
+http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1186255602_b500000_sleng_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="Rudaw TV.iq" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/7757f044/M/unnamed-M.png" group-title="Undefined",Rudaw (720p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_360p_chunks.m3u8
+#EXTINF:-1 tvg-id="KurdTV.iq" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurd-channel-iq.png" group-title="General",Kurd TV
+https://kurd-channel.ikoflix.com/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.iq" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/trt-kurdi.jpg" group-title="News",Trt Kurdi (1080p) [Not 24/7]
+https://tv-trtkurdi.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="Turkce SZC TV.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Undefined",SZC TV (720p) [Not 24/7]
+https://stream-02.dc3.dailymotion.com/sec(Eass_GmycFHejU_poOXBSt_Z5bgMDjqvfkq2c0YFpmHJd8qZ1C5a9y8F7blvKMjg)/dm/3/x8i9j7s/s/live-4.m3u8
+#EXTINF:-1 tvg-id="ARTI TV.iq" tvg-logo="https://seeklogo.com/images/A/arti-tv-logo-894604FA3F-seeklogo.com.png" group-title="Undefined",Arti TV (720p) [Not 24/7]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684007192/ei/t5RfZK3PO5GR1gLW7qeoBA/ip/46.1.253.74/id/z9ZhgZGxqM8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKcYb7hqUJSUpRHc3rhedmIfdUxZbaJG_UEKGb6tnyFUAiBV-N9O3tZLZUMyE6k-GjOpY-_A1Lrgx0NYvCqve-CfQw%3D%3D/file/index.m3u8
